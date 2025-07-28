@@ -193,4 +193,4 @@ Este projeto foi desenvolvido para a disciplina de **Engenharia de Software**, c
 
 ---
 
-**Desenvolvido com ❤️ para o curso de Engenharia de Software**
+**Desenvolvido com ❤️ para a disciplina de Engenharia de Software**
